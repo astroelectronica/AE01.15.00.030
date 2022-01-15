@@ -1,0 +1,9 @@
+.title KiCad schematic
+V1 /IN 0 AC 1
+R1 /IN Net-_C1-Pad1_ {R}
+C1 Net-_C1-Pad1_ /OUT_L {C}
+R2 /OUT_L 0 {R}
+C2 /OUT_L 0 {C}
+R4 /OUT_H 0 {R}
+R3 /IN /OUT_H {RD}
+.end
